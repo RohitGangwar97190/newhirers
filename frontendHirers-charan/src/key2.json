@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "title": "BPO CUSTOMER CARE",
+      "postedOn": "12-02-2024",
+      "expireOn": "27-02-2024",
+      "status": "Active"
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "postedOn": "15-02-2024",
+      "expireOn": "01-03-2024",
+      "status": "Active"
+    },
+    {
+      "title": "Frontend Developer",
+      "postedOn": "2024-08-01",
+      "expireOn": "2024-09-01",
+      "status": "Active"
+    },
+    {
+      "title": "Backend Developer",
+      "postedOn": "2024-07-15",
+      "expireOn": "2024-08-15",
+      "status": "Expired"
+    },
+    {
+      "title": "Full Stack Developer",
+      "postedOn": "2024-08-10",
+      "expireOn": "2024-09-10",
+      "status": "Active"
+    },
+    {
+      "title": "Data Scientist",
+      "postedOn": "2024-06-01",
+      "expireOn": "2024-07-01",
+      "status": "Expired"
+    },
+    {
+      "title": "Project Manager",
+      "postedOn": "2024-07-20",
+      "expireOn": "2024-08-20",
+      "status": "Active"
+    },
+    {
+      "title": "UI/UX Designer",
+      "postedOn": "2024-08-05",
+      "expireOn": "2024-09-05",
+      "status": "Active"
+    }
+  ]
+}
